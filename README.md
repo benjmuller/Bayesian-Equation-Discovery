@@ -1,5 +1,5 @@
 # Bayesian-Equation-Discovery
-A Bayesian algorithm (BED) for data driven Equation Discovery. This algorithm utilises Gaussian Process (GP) Regression and Markov Chain Monte Carlo (MCMC) with a horseshoe prior for discovering the governing equations of systems of ODE's and PDE's.
+A Bayesian algorithm for data driven Equation Discovery (BED). This algorithm utilises Gaussian Process (GP) Regression and Markov Chain Monte Carlo (MCMC) with a horseshoe prior for discovering the governing equations of systems of ODE's and PDE's.
 
 
 ## Example
